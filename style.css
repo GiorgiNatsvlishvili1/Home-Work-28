@@ -1,0 +1,62 @@
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 2; /* Firefox */
+  }
+@media screen and (min-width: 991px) {
+ #shreemant {
+    font-size: 64px;
+    color: #ffffff;
+ }
+ #shreemant1 {
+    font-size: 15px;
+    color: #ffffff;
+ }
+ #light {
+    margin-top: -30%;
+    text-align: center;
+    padding-bottom: 40px;
+ }
+ #queen {
+    padding-top: 80px;
+ }
+ #queen1 {
+    padding-top: 40%;
+    padding-bottom: 10%;
+ }
+ #distance {
+    font-size: 78px;
+ }
+ #mynav {
+    display: flex;
+    justify-content: center;
+}
+}
+@media screen and (max-width: 991px) {
+    #none {
+        display: none;
+    }
+    #culture {
+        text-align: center;
+    }
+    #distance {
+        text-align: center;
+    }
+    #shreemant {
+        font-size: 35px;
+        color: #ffffff;
+     }
+     #shreemant1 {
+        font-size: 15px;
+        color: #ffffff;
+     }
+    #light {
+        margin-top: -60%;
+        text-align: center;
+     }
+#section1 {
+    text-align: center;
+ }
+ #distance {
+    font-size: 50px;
+ }
+}
